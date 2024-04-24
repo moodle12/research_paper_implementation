@@ -1,6 +1,6 @@
-#**Team-06**
+# **Team-06**
 
-#Factorization Meets the Neighborhood: a Multifaceted Collaborative Filtering Model(Research Paper Implementation)
+# Factorization Meets the Neighborhood: a Multifaceted Collaborative Filtering Model(Research Paper Implementation)
 ---
 
 
